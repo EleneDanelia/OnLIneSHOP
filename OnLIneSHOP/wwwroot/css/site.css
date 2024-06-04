@@ -75,4 +75,15 @@ font-weight:bold;
 display:block;
 margin:5px 0;
 }
+.photos {
+    display: flex;
+    gap: 2rem;
+    padding-top:50px;
+   padding-bottom:50px;
+}
+ .photos img {
+        height:300px;
+        width:300px;
+        object-fit:cover;
+ }
 
